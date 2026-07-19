@@ -1,0 +1,9 @@
+.build/
+.playwright-cli/
+open_ai_build_week.txt
+__pycache__/
+*.py[cod]
+.pytest_cache/
+output/playwright/.playwright/
+output/playwright/*.zip
+

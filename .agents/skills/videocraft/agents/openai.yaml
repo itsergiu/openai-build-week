@@ -1,0 +1,4 @@
+interface:
+  display_name: "VideoCraft"
+  short_description: "Compile videos into cited study artifacts"
+  default_prompt: "Use $videocraft to turn this video into a verified, shareable study artifact."

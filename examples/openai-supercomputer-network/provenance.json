@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source": {
+    "video_id": "TiW96H5HmAw",
+    "url": "https://www.youtube.com/watch?v=TiW96H5HmAw",
+    "title": "Why AI needs a new kind of supercomputer network — the OpenAI Podcast Ep. 18",
+    "channel": "OpenAI",
+    "duration_seconds": 2258,
+    "caption_language": "en"
+  },
+  "inputs": {
+    "study_sha256": "4c1989aa2c6b48a132e7faddd9977c1ebe762a7152ed3856641b6b1af7d7cc6b",
+    "evidence_sha256": "5ad82b0f5b2f7cd044fb23388eb1ff8d9fa6627087c666f0e525643ee1e24848",
+    "caption_file_sha256": "95892ef460ce82508d0edc610a58327702a066cbcf16295ac3bf2a65a10a2278"
+  },
+  "output": {
+    "file": "index.html",
+    "sha256": "60fa106c27e4155f20ddcc97e6fe9735f045fe121529cfc458e3c95a075ee8cd"
+  },
+  "generator": {
+    "script": "videocraft/scripts/pipeline.py",
+    "agent_surface": "Codex subagent",
+    "model": "gpt-5.6-sol",
+    "session_id": "not-recorded"
+  },
+  "rights": "Source media and full captions are not redistributed; output contains original paraphrases and timestamp links."
+}
